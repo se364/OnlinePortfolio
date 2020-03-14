@@ -1,0 +1,47 @@
+body {
+    margin: 0 200px;
+    background-color: lightsalmon;
+    /*font-size: 75%;
+    font-family: arial, sans-serif;*/
+}
+
+#main {
+    background-color: white;
+    height: 100%;
+    padding: 1em 5em 3em 5em;
+}
+
+fieldset {
+    /*margin-bottom: 1.5em;*/
+    border: 2px solid darkblue;
+    padding: 1em;
+}
+
+legend {
+    color: darkgreen;
+    font-variant: small-caps;
+    /*font-weight: bold;
+    font-size: 125%;*/
+}
+
+#submit {
+
+    background-color: darkblue;
+
+}
+
+#title {
+    background-color: chocolate;
+    color: white;
+}
+
+
+
+img {
+    width: 50%;
+}
+
+.err {
+    color: #1d2124;
+    visibility: hidden;
+}
